@@ -16,7 +16,7 @@ We will be working with database northwind.db we have set up and connected to in
 
 
 /* TASK II
-Q2. Write a query to get most expense and least expensive Product list (name and unit price)
+Q2. Write a query to get the most expensive and the least expensive Product (name and unit price) (2 separate queries)
 */
 
 
@@ -31,7 +31,7 @@ Q4. Select all product names and their category names (77 rows)
 
 
 /* TASK V
-Q5. Select all product names, unit price and the supplier region that don't have suppliers from USA region. (26 rows)
+Q5. Select all product names, unit price and the supplier region that don't have suppliers from the country USA. (65 rows)
 */
 
 
